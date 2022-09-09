@@ -1,0 +1,53 @@
+
+
+#alcalinos {
+    background-color: rgb(255, 95, 46);
+}
+
+#alcalinoterreos {
+    background-color: rgb(247, 223, 115);
+}
+
+#lantanidos td {
+    background-color: rgb(252, 176, 229);
+}
+
+#lantanidos th {
+    color: rgb(252, 176, 229);
+}
+
+#actinidos td {
+    background-color: rgb(216, 98, 133);
+}
+
+#actinidos th {
+    color: rgb(216, 98, 133);
+}
+
+#metales_transicion {
+    background-color: rgb(144, 255, 177);
+}
+
+#metales_bloque {
+    background-color: rgb(247, 177, 72);
+}
+
+#metaloides {
+    background-color: rgb(202, 98, 216);
+}
+
+#no_metales {
+    background-color: rgb(112, 241, 80);
+}
+
+#halogenos {
+    background-color: rgb(252, 235, 0);
+}
+
+#gases {
+    background-color: rgb(98, 216, 216);
+}
+
+#table2 th {
+    color: blue;
+}
