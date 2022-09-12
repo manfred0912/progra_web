@@ -1,8 +1,4 @@
-td:hover {
-    background-color: white;
-    color: black;
-    border: black;
-}
+
 
 #alcalinos {
     background-color: rgb(255, 95, 46);
@@ -63,3 +59,7 @@ td:hover {
     color: blue;
 }
 
+table td:hover {
+    background-color: rgb(255, 253, 253)!important;
+    color: black;
+}
