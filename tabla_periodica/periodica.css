@@ -1,4 +1,8 @@
-
+td:hover {
+    background-color: white;
+    color: black;
+    border: black;
+}
 
 #alcalinos {
     background-color: rgb(255, 95, 46);
@@ -8,19 +12,21 @@
     background-color: rgb(247, 223, 115);
 }
 
-#lantanidos td {
+#lantanidos {
     background-color: rgb(252, 176, 229);
 }
 
-#lantanidos th {
+#lan {
+    background-color: white;
     color: rgb(252, 176, 229);
 }
 
-#actinidos td {
+#actinidos {
     background-color: rgb(216, 98, 133);
 }
 
-#actinidos th {
+#act {
+    background-color: white;
     color: rgb(216, 98, 133);
 }
 
@@ -48,6 +54,12 @@
     background-color: rgb(98, 216, 216);
 }
 
+/* th:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+} */
+
 #table2 th {
     color: blue;
 }
+
