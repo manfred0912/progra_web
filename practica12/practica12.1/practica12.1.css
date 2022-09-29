@@ -44,4 +44,5 @@ img {
 }
 .article-images {
     display: flex;
+    flex-wrap: wrap;
 }
