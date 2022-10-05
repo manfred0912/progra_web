@@ -24,7 +24,7 @@ html {
 }
 .box1 {
     grid-area: bloque1;
-    display: flex;
+    display: grid;
     background-color: aqua;
     align-items: flex-end;
 }
@@ -45,4 +45,3 @@ html {
 .box5 {
     grid-area: bloque5;
 }
-
