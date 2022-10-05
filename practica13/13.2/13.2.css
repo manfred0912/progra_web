@@ -1,0 +1,28 @@
+.container {
+    display: grid;
+    grid-template-areas:
+    'uno dos dos'
+    'uno tres cuatroA'
+    'uno tres cuatroB';
+    background-color: gray;
+}
+.box1 {
+    grid-area: uno;
+    background-color: red;
+}
+.box2 {
+    grid-area: dos;
+    background-color: limegreen;
+}
+.box3 {
+    grid-area: tres;
+    background-color: pink;
+}
+.box4 {
+    grid-area: cuatroA;
+    background-color: blue;
+}
+.box4b {
+    grid-area: cuatroB;
+    background-color: blue;
+}
